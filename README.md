@@ -89,4 +89,4 @@ required parameters
 
 - :id > Integer
 
-this code will delete the tweet you sent( response code 200 )
+this code will delete the tweet you sent.
