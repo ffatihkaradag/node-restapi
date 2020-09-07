@@ -13,7 +13,7 @@ simple nodejs rest api mongodb based, created with postman
 
 You can send a request to this address to create a tweet.
 
-- POST | **http://localhost:9000/api/tweet**
+- POST | **https://restapi-nodef.herokuapp.com/api/tweet**
 
 required parameters
 
@@ -37,7 +37,7 @@ this code will be created your tweet and returns a tweet. ( response code 200 )
 
 The address you need to send a request to view all tweets using the API
 
-- GET | **http://localhost:9000/api/tweets**
+- GET | **https://restapi-nodef.herokuapp.com/api/tweets**
 
 Response:
 
@@ -58,7 +58,7 @@ this code automatically pulls all tweets from the corresponding address
 
 You can send a request to this address to update a tweet.
 
-- PATCH | **http://localhost:9000/api/tweet/:id**
+- PATCH | **https://restapi-nodef.herokuapp.com/api/tweet/:id**
 
 required parameters
 
@@ -83,7 +83,7 @@ this code will be updated your tweet and returns a tweet. ( response code 200 )
 
 If you want to delete a tweet, you can send a request to
 
-- DELETE | **http://localhost:9000/api/tweet/:id**
+- DELETE | **https://restapi-nodef.herokuapp.com/api/tweet/:id**
 
 required parameters
 
