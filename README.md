@@ -9,6 +9,8 @@ simple nodejs rest api mongodb based, created with postman
 
 ### Usage
 
+#### READ
+
 The address you need to send a request to view all tweets using the API
 
 - GET | **http://localhost:9000/api/tweets**
